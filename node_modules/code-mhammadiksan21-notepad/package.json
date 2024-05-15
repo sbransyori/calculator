@@ -1,0 +1,26 @@
+{
+  "name": "code-mhammadiksan21-notepad",
+  "version": "1.0.3",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Mhammadiksan21/code-Mhammadiksan21-notepad",
+    "homepage": "https://github.com/Mhammadiksan21/code-Mhammadiksan21-notepad"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "lodash": "^4.17.21"
+  },
+  "dependencies": {
+    "code-dheryl": "^1.0.5",
+    "code-dheryldz-notepad": "^1.0.1",
+    "code-sbransyori": "^1.0.5",
+    "code-sbransyori-to-do-list": "^1.0.1"
+  }
+}
